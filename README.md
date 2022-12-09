@@ -1,6 +1,5 @@
 ### Andreu Marquez -- @andreums26
 
-<!--
 **Andreums26/Andreums26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, there 🙋🏻‍♂️! I'm Andreu.
@@ -23,4 +22,4 @@ In general I like sports, but more tennis 🎾 , football ⚽️ and basketball 
 
 - 💬 Connect? Here 👉🏼 www.linkedin.com/in/andreumarquez
 - 📫 How to reach me: a20190244@pucp.edu.pe 📩
-- 📲 My instagram: @andreums26-->
+- 📲 My instagram: @andreums26
