@@ -1,6 +1,5 @@
-### Andreu Marquez -- @andreums26
+## Andreu Marquez -- @andreums26
 
-**Andreums26/Andreums26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi, there 🙋🏻‍♂️! I'm Andreu.
 
