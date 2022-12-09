@@ -22,3 +22,6 @@ In general I like sports, but more tennis 🎾 , football ⚽️ and basketball 
 - 💬 Connect? Here 👉🏼 www.linkedin.com/in/andreumarquez
 - 📫 How to reach me: a20190244@pucp.edu.pe 📩
 - 📲 My instagram: @andreums26
+
+
+[![Andreums26 GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreums26)](https://github.com/Andreums26/github-readme-stats)
