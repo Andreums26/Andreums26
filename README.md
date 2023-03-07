@@ -3,7 +3,7 @@
 
 Hi, there 🙋🏻‍♂️! I'm Andreu.
 
-I'm 20 years old and I'm an economics student with a certain interest in programming 👨🏻‍💻.
+I'm 21 years old and I'm an economics student with a certain interest in programming 👨🏻‍💻.
 
 
 ### My skills:
